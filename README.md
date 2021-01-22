@@ -5,12 +5,12 @@ Problem sets for ECE-211: Signals Processing and Systems Analysis
 
 ## Assignment Descriptions
 
-- **Problem Set 1: ** Graphing signal harmonics and discrete stem plots of fourier coefficients.
+- **Problem Set 1:** Graphing signal harmonics and discrete stem plots of fourier coefficients.
 - **Problem Set 2:** Constructing a convolution matrix.
-- **Problem Set 4**: Computing pole-zero matrices and impulse/phase responses for digital filters
-- **Problem Set 6: **Creating state space realizations and calculating eigenvalues.
-- **Problem Set 7: **Working with transfer functions and unit step responses.
-- **Problem Set 8: ** Toeplitz matrices, power spectral density estimation, and singular value decomposition.
+- **Problem Set 4:** Computing pole-zero matrices and impulse/phase responses for digital filters
+- **Problem Set 6:** Creating state space realizations and calculating eigenvalues.
+- **Problem Set 7:** Working with transfer functions and unit step responses.
+- **Problem Set 8:** Toeplitz matrices, power spectral density estimation, and singular value decomposition.
 
 **Note:** Not all problem sets in this course required the use of MATLAB or programming. These problem sets were not included.
 
